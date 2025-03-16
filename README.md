@@ -161,4 +161,4 @@ The application uses Socket.IO for real-time updates:
 
 ## Contributors
 
-[List of contributors]
+Nourhane Benjedou
