@@ -29,7 +29,7 @@ app.use(express.static(path.join(__dirname, '../public')));
 
 // Import routes
 const authRoutes = require('./routes/auth');
-const patientRoutes = require('./routes/patients');
+const patientRoutes = require('./controllers/patients');
 const vitalRoutes = require('./routes/vitals');
 const alertRoutes = require('./routes/alerts');
 
