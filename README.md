@@ -21,7 +21,7 @@ A real-time patient monitoring system built with Node.js, Express, MongoDB, and 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Achref23illi/patient_monitoring.git
    cd patient-monitoring
    ```
 
